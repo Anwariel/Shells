@@ -15,7 +15,7 @@ define('APP_TITLE', 'Br0ken33 File Manager');
 // Is independent from IP white- and blacklisting
 $use_auth = true;
 $auth_users = array(
-    'adm' => '$2y$10$x.nRO53SKSAzzXLo0yF/UekUhBI1MNYlI5LmKDOuZ8AZkzZq/2LwS', // Kontol$$##
+    'adm' => '$2y$10$5Nuwv.oZvZxqGT0n3ommQe4CQiE4L.GIbD5kDnz/0uOKLWx1B6AKu', // sh00tKontol$$##
 );
 
 // Readonly users
